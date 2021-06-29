@@ -1,0 +1,335 @@
+<resources>
+    <string name="chest_exercise">Chest Exercise</string>
+    <string name="app_name">GymBabePro</string>
+    <string name="benchpress_title">
+        1. Bench Press
+    </string>
+
+    <string name="benchpress_string">
+        Its popular to hate on the bench press these days, but its one of the most popular lifts in the gym for a reason.
+        For one, the standard barbell bench allows you to move the most weight.
+        Its also an easier lift to control than pressing with heavy dumbbells.
+        The exercise is also relatively easy to spot—so dont be afraid to ask for one!
+        The bench press also responds well to classic protocols like 5x5 for muscle and strength, or even 10x10, aka German Volume Training, for pure mass.
+        If you want to get serious, there are systematic bench press programs like Bench 300 to help you chase a big number.
+    </string>
+
+    <string name="dumbell_title">
+        2. Dumb Bell
+    </string>
+
+    <string name="dumbbell_string">
+        Whether dumbbell or barbell presses are better for growth is an age-old weight-room debate.
+        Luckily, you can do both! But theres little doubt that the dumbbell variation has more versatility throughout the beginning, middle, and end of a chest workout.
+        Some other big plusses for dumbbells:
+        Each sides musculature must work independently, creating more balanced strength and size.
+        Dumbbells also allow a longer range of motion, which some studies say can lead to muscle growth.
+        Plus, you can more easily tweak your grip to create variety and a new stimulus on chest day.
+    </string>
+
+    <string name="incline_title">
+        3. Incline Bench Press
+    </string>
+    <string name="incline_string">
+        Not only is the incline bench press a classic way to build the upper chest, many lifters find them to be a more comfortable "main lift" for the shoulders than flat benching.
+        Its great with a barbell or multi-grip bar, but maybe be even better with dumbbells, since you can customize your grip to increase focus on the upper pecs.
+Pro tip: Many benches are fixed at a very steep angle, which EMG results have shown works the front delts as much as the chest. If possible, go for a lower incline, such as 30 degrees, to focus squarely on the upper pecs.
+The common thinking on decline is that its for lower chest only. And while it is good for that, all-time greats, like six-time Mr. Olympia Dorian Yates in his 6-Week Blood and Guts program, favor it because it hits the entire chest and allows them to lift heavier and more comfortably than the flat bench.
+If your gym has a comfortable decline press machine, like a plate-loaded hammer strength machine, use it. Along with the traditional double-arm press, you can sit sideways and press across your body one arm at a time. This unilateral chest move emphasizes shoulder adduction, one of the primary actions of the pec major.
+    </string>
+
+    <string name="fw_title">
+        4. Free-Weight Pressing
+    </string>
+    <string name="fw_string" translatable="false">
+        Free-weight pressing moves on a flat bench are great, but machine press and cable press variations have some unique benefits. For one, its easier to slow down the repetition, both in the concentric and eccentric phases. Stack-loaded machines are also great for quickly doing dropsets.
+Feel like a step down from free weights? It shouldnt.EMG research demonstrates that the machine bench press recruits the shoulders far less than free-weight variations. This allows you to really target your pecs.
+    </string>
+
+    <string name="pushup_title">
+        5. Push - ups
+    </string>
+    <string name="pushup_string">
+        An obvious point in favor of push-ups is that they require no equipment and can be the centerpiece of a home chest workout, like in strength coach Paul Carters program Jacked at Home: Bodyweight Muscle-Building Workouts. But they are also highly versatile, easy to adjust for range of motion, and can help strategically target different parts of your chest with a few simple tweaks to elevation or hand placement.
+Yeah, but they are just push-ups," you say. They are definitely not enough to make you strong.Believe it or not, an in-depth analysis found that push-ups and bench presses are similar in both muscle activation and overall muscle gains. This doesn't mean push-ups should be all you do, but it means they definitely should have a place in your repertoire.
+    </string>
+
+    <string name="dip_title">
+        6. Dips
+    </string>
+
+    <string name="dip_string">
+         Dips were a staple in the training programs of the golden-age greats for good reason: Nothing stretches the chest and makes it work quite like this bodyweight movement. You can add extra weight with a dip belt if youre seriously strong, or use band or machine assistance if you struggle with bodyweight reps. Plus, they are a great spotter-free alternative to the decline press.
+All types of dips hit the chest heavily, but on chest day, its worth making sure youre doing dips that emphasize the pecs. Put your feet up behind you, lean forward as far as possible, and allow your elbows to flare out slightly as you dip.
+at push-ups and bench presses are similar in both muscle activation and overall muscle gains. This doesnt mean push-ups should be all you do, but it means they definitely should have a place in your repertoire.
+    </string>
+
+    <string name="armstitle">
+        Arms Exercise
+    </string>
+
+    <string name="ac_title">
+        1. Arms Circle
+    </string>
+
+    <string name="ac_string">
+       Strengthen your shoulders and arms with simple, yet effective circular motions. You can do this exercise in a matter of minutes without any equipment.
+    </string>
+
+    <string name="td_title">
+        2. Tricep Dips
+    </string>
+
+    <string name="td_string">
+       Build your triceps by using only your body weight. While you can do this on the floor, opting for a couch, bench, chair, or sturdy coffee table also works as a great base.
+    </string>
+
+    <string name="bc_title">
+        3. Bicep curls to push press
+    </string>
+
+    <string name="bc_string">
+      Although you can use weights for this exercise, it can be just as effective with household items like a can of food or bottle of laundry detergent. This exercise primarily focuses on your bicep muscles but also works your deltoids and core.
+    </string>
+
+    <string name="ps_title">
+        4. Plank sidewalk
+    </string>
+
+    <string name="ps_string">
+   Tone your abdominal muscles as you strengthen your arms. Put a spin on a traditional plank by moving side to side.
+    </string>
+
+    <string name="kp_title">
+        5. Kickboxing punches
+    </string>
+
+    <string name="kp_string">
+   If you’ve ever entered the ring or a cardio kickboxing class, you know that throwing punches burns a lot of calories. They also help tone and strengthen your arms and upper back.
+    </string>
+
+    <string name="shouldertitle">
+        Shoulder Exercise
+    </string>
+
+    <string name="bo_title">
+        1. Barbell Overhead Shoulder Press
+    </string>
+
+    <string name="bo_string">
+ A barbell overhead shoulder press (aka barbell standing shoulder press) works not just your shoulders, but most of your body. That makes it a terrific core strengthener and mass builder, among other things.
+    </string>
+
+    <string name="sd_title">
+        2. Seated Dumbbell Shoulder Press
+    </string>
+
+    <string name="sd_string">
+  A proper deltoid workout simply isn’t complete without the seated dumbbell shoulder press. In fact, some say these should workouts with dumbells are an entire deltoid regimen unto itself, targeting the anterior, lateral, and posterior deltoid muscles (with an emphasis on the middle delts). Meanwhile, lifting two separate dumbbells (as opposed to using a machine) prevents you from using one side of your body over the other, thereby retaining firmer balance and distribution. Naturally, a fair amount of coordination is required to pull this one off, especially when you increase the weights.
+    </string>
+
+    <string name="fr_title">
+        3. Front Raise
+    </string>
+
+    <string name="fr_string">
+    You can use either a weight plate or barbell for this shoulder workout, which targets the anterior delts. No matter what you decide to use, prepare for a seriously intense time with one of the best shoulder exercises for mass. Don’t max out on the weight, as it will quickly turn healthy pain into unhealthy injury.
+    </string>
+
+
+    <string name="ubtitle">
+       Upper Back Exercise
+    </string>
+
+    <string name="br_title">
+        1. Bent-over row
+    </string>
+
+    <string name="br_string">
+  Many people get into the habit of letting the bench press dominate their workout, but concentrating on your pecs at the expense of your back can lead to a muscle imbalance that not only looks rubbish, but also increases your risk of injury. The bent-over row works the opposite muscle group, the upper back (traps, lats, rhomboids and rear deltoids), as well as your biceps and abs, which help keep your torso stable.
+Start with your core braced, your back straight and your shoulder blades retracted. Bend your knees slightly and lean forwards from the hips. Grip the bar with your hands just wider than shoulder-width apart, letting the bar hang at knee level. Pull the bar to your sternum, retracting your shoulder blades to allow the bar to come up to your chest, then lower slowly back to the start.
+Don’t shrug your shoulders and round your back if you’re struggling with the weight – this takes the emphasis away from the target muscles. It’s far better to switch to a lighter weight and maintain correct form.
+    </string>
+
+    <string name="or_title">
+        2. One-arm row
+    </string>
+
+    <string name="or_string">
+   Working one arm at a time encourages balanced growth, lessening the risk of injury. Rest your left knee and hand on a bench, and hold a dumbbell in your right hand close to the floor. Keeping your back straight, use your back muscles and biceps to row the weight up to your side, leading with your elbow. Normally you’ll complete all your reps with one arm, then repeat on the other side.
+    </string>
+
+    <string name="pu_title">
+        3. Pull-up
+    </string>
+
+    <string name="pu_string">
+   The best bodyweight upper-back exercise going, the pull-up works the lats, traps and rhomboids, as well as challenging your arms and shoulders. It’s a daunting exercise the first time you do it, and you might only manage a couple if you don’t use a resistance band or pull-up machine to support some of your weight, but stick at it and you’ll find that it won’t take long before you can knock out a set of ten pull-ups.
+Jump up and grab the bar in an overhand grip with your hands shoulder-width apart. Let your body hang so your arms are fully extended. Keeping your shoulders back and your core engaged, raise your body until your chin is above the bar. Then slowly lower yourself back to the start.
+
+    </string>
+
+    <string name="lbtitle">
+       Lower Back Exercise
+    </string>
+
+    <string name="dl_title">
+        1. Deadlift
+    </string>
+
+    <string name="dl_string">
+ Deadlifts are a great compound exercise for building strength in your glutes, quads, hamstrings, lats, and traps. However, they do also help to build strength in the lower back in a small way. When performing this exercise correctly, you should have an isometric hold through your back to keep your torso straight throughout the move. You’ll also feel a concentric contraction as you reach a vertical position. However, don’t be tempted to cheat this move and make it do more by pulling with your back or over-extending at the top. It’s a hip driving movement, and doing anything other than that can cause injury and will have you walking like you’re a hundred-years-old.
+    </string>
+
+    <string name="ks_title">
+        2. Kettlebell Swing
+    </string>
+
+    <string name="ks_string">
+        Similar to the deadlifts, kettlebell swings are a hip-hinging exercise. You’ll use your lower back muscles to stabilize your upper body throughout the swing, and you’ll achieve a small concentric contraction at the top of the move. Again, as with the deadlift, don’t shift to using your back to swing; otherwise, you will end up injured. The great thing about this conditioning exercise is that you can build endurance and athleticism by aiming for longer sets.
+    </string>
+
+    <string name="hp_title">
+        3. Hyperextension
+    </string>
+
+    <string name="hp_string">
+    Hyperextensions get a bad wrap because of the name — hyper sounds so aggressive. Yet this exercise is excellent for strengthening your lower back. Not only do you get a full flex, but you also get a concentric contraction of your muscles, and you can easily add weights to increase your outcomes. The key to performing the move without adding undue stress to your lower back is to lift your body to a neutral position, not a fully extended one. You still get engagement through the full range of motion, without unnecessary risk. Take your extension to another level by choosing dumbbells as your weights, and adding a row at the top to include your upper back muscles in the workout.
+    </string>
+
+
+    <string name="abstitle">
+        Abs Exercise
+    </string>
+
+    <string name="dc_title">
+        1. Dumbbell crunch
+    </string>
+
+    <string name="dc_string">
+    Reps 10 Rest 10sec
+    Lie on your back, holding a dumbbell or weight plate across your chest in both hands. Raise your torso, then lower it, maintaining tension in your uppers abs throughout.
+    </string>
+
+    <string name="tc_title">
+        2. Tuck and crunch
+    </string>
+
+    <string name="tc_string">
+    Reps 15 Rest 10sec
+    Lie down with your hands by your head and your legs raised with your knees bent at a 90° angle. Simultaneously raise your torso and draw your knees towards your chest. Keep your fingers by your temples throughout and initiate each rep smoothly without jerking your torso up. Don’t let your feet touch the floor between reps.
+    </string>
+
+    <string name="mv_title">
+        3. Modified V-sit
+    </string>
+
+    <string name="mv_string">
+    Reps 15 Rest 10sec
+    Reps 12 Rest 10sec
+    Lie with your legs raised off the floor and extended away from you so they’re parallel with the floor, and your arms straight by your sides, held off the floor. Keep your arms straight as you raise your torso and bring your legs in, bending at the knees, so that your chest meets your knees at the top of the move. Then lower under control.
+    </string>
+
+
+    <string name="attitle">
+        Anterior Thigh Exercise
+    </string>
+
+    <string name="fs_title">
+        1. Front squat
+    </string>
+
+    <string name="fs_string">
+    Sets 4 Reps 6-8 Rest 2min
+    Take a “clean” grip, hands slightly wider than shoulder-width apart. Position the bar on your collarbone and drive your elbows upwards. Un-rack the bar, and take two steps back. Check your stance is even with feet just outside shoulder width. Take a deep breath, brace your core and lower under control into a full squat. Think “sitting between your heels”, rather than “sitting back”. Throughout the movement keep your elbows up and in to maintain the “shelf” for the barbell. Once you hit the bottom position, drive back up through the mid-foot until you reach the start.
+    </string>
+
+    <string name="bs_title">
+        2. Bulgarian split squat
+    </string>
+
+    <string name="bs_string">
+    Sets 3 Reps 8-10 Rest 90sec
+    Position yourself in a staggered stance with your rear foot elevated on a step or bench. Lower by bending at the knee and hip while keeping your torso upright. When you reach the bottom drive back up, extending your knee and hip to return to the start position.
+    </string>
+
+    <string name="lp_title">
+        3. Leg press
+    </string>
+
+    <string name="lp_string">
+    Sets 3 Reps 10-12 Rest 90sec
+    Position yourself on the leg press machine and place your feet on the platform shoulder-width apart. Slowly lower until your knees are bent at least at a 90° angle. Keeping your whole foot in contact with the platform, engage your quads to press the weight back up. Don’t lock out your knees at the top.
+    </string>
+
+
+    <string name="bttitle">
+        Back Thigh Exercise
+    </string>
+
+    <string name="te_title">
+        1. Thigh Exercises You Need to Know
+    </string>
+
+    <string name="te_string">
+    Right up there with getting six-pack abs, the thighs are an area of the body that many people love to target in the gym. If its a thigh "slimming" workout youre after though, theres a catch: You cant spot reduce. What you can do is develop more lean muscle in a targeted area. When combined with a healthy diet and overall fat-loss, these 10 thigh workout moves can help you build a strong lower body.
+    </string>
+
+    <string name="ss_title">
+        2. Side Shuffle Switch
+    </string>
+
+    <string name="ss_string">
+    This fast-paced thigh exercise is easy to add to any leg workout at home. It gets your heart rate up (bonus cardio!) and recruits your inner-thigh muscles to help you quickly switch directions.
+    </string>
+
+    <string name="pl_title">
+        3. Plyometric Squat
+    </string>
+
+    <string name="pl_string">
+    Jumping plyometric exercises strengthen every muscle in your legs (including your inner thighs) and torch major calories all at once. (If you have bad knees, try these plyo moves instead.)
+    </string>
+
+
+
+    <string name="calftitle">
+        Calf Exercise
+    </string>
+
+    <string name="sc_title">
+        1. Standing calf raise on elevated surface
+    </string>
+
+    <string name="sc_string">
+    “This is a great exercise to stretch and strengthen the calves (primarily the gastrocnemius) through a full range of motion,” Kelley says.
+    Holding a dumbbell in your left hand, stand with the ball of your left foot on an elevated surface with your heel hanging off, and your right toes resting on your left ankle.
+    Keeping your core engaged, raise your left heel as high as possible.
+    Slowly lower your heel down below the raised surface until you feel a stretch in your calf.
+    Repeat and do equal reps on both legs.
+    </string>
+
+    <string name="sr_title">
+        2. Seated calf raise
+    </string>
+
+    <string name="sr_string">
+    “This exercise is great for soleus isolation,” Kelley says.
+    Sit tall on a bench or chair with your feet flat on the ground holding two heavy dumbbells on top of your thighs.
+    Keeping your core engaged, lift your heels off the ground as high as possible.
+    Slowly lower your heels back down to the ground, and repeat.
+    To increase your range of motion and work your muscles even more while doing a seated calf raise, Kelley suggests elevating the balls of your feet with a block.
+    </string>
+
+    <string name="ft_title">
+        3. Farmer walk on toes
+    </string>
+
+    <string name="ft_string">
+    This variation on a traditional farmer’s walk is excellent for functional calf strengthening and balance, Kelley says.
+    Hold a dumbbell in each hand with your feet hip-width apart.
+    Keeping your shoulders down and your core engaged, lift your heels so you’re standing on your toes.
+    Without letting your heels touch the ground, walk forward on your toes for a set number of reps or time.
+    </string>
+
+</resources>
